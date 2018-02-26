@@ -1,0 +1,75 @@
+﻿
+@{
+	ViewBag.Title = "Data";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script type="text/javascript">
+	var uri = 'api/Employee';  
+	function find() {
+		var id = $('#empId').val();
+		if (id.length>0 && !($.isNumeric(id) && Math.floor(id) == id)) {
+			alert('Invalid Employee');
+			return;
+		}
+		
+		$("#Employees").find("tr:gt(0)").remove();
+		$.ajax({
+			url: "/api/Employee" + "/" + id,
+			type: "Get",
+			success: function (data) {
+				//$("<tbody>").appendTo("#Employees");
+				for (var i = 0; i < data.length; i++) {
+					$("<tr><td>" + data[i].Name + "</td><td>" + data[i].RoleName + "</td><td>" + data[i].AnnualSalary + "</td></tr>").appendTo("#Employees");
+				}
+				//$("</tbody>").appendTo("#Employees");
+			},
+			error: function (msg) { alert(msg); }
+		});
+		
+	}  
+
+	//$(document).ready(function () {
+		
+ //       $.ajax({
+	//		url: "/api/Employee",
+	//		type: "Get",
+ //           success: function (data) {
+ //               for (var i = 0; i < data.length; i++) {
+	//				$("<tr><td>" + data[i].Name + "</td><td>" + data[i].RoleName + "</td><td>" + data[i].AnnualSalary + "</td></tr>").appendTo("#Employees");
+ //               }
+ //           },
+ //           error: function (msg) { alert(msg); }
+ //       });
+ //   });
+</script>
+
+<h2>Employees</h2>
+
+<div id="body">
+	
+	<section class="content-wrapper main-content">
+		<div>
+			<h2>Search by Employee ID</h2>
+
+			<input type="text" size="5" id="empId" />
+			<input type="button" value="Get Employees" onclick="find();" />
+
+			<p id="st"></p>
+		</div>
+		<table id="Employees" class="table">
+			<thead>
+				<tr>
+					<th>@Html.DisplayName("Name")</th>
+
+					<th>@Html.DisplayName("Role Name")</th>
+
+					<th>@Html.DisplayName("Annual Salary")</th>
+				</tr>
+			</thead>
+			
+		</table>
+	</section>
+	</div>
+

@@ -1,0 +1,11 @@
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.DataAccessLayer\bin\Debug\HandsOnTest.DataAccessLayer.dll
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.DataAccessLayer\bin\Debug\HandsOnTest.DataAccessLayer.pdb
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.DataAccessLayer\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.DataAccessLayer\obj\Debug\HandsOnTest.DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.DataAccessLayer\obj\Debug\HandsOnTest.DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.DataAccessLayer\obj\Debug\HandsOnTest.DataAccessLayer.dll
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.DataAccessLayer\obj\Debug\HandsOnTest.DataAccessLayer.pdb
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.DataAccessLayer\bin\Debug\HandsOnTest.DbModels.dll
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.DataAccessLayer\bin\Debug\HandsOnTest.DbModels.pdb

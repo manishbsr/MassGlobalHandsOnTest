@@ -1,0 +1,5 @@
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.DbModels\bin\Debug\HandsOnTest.DbModels.dll
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.DbModels\bin\Debug\HandsOnTest.DbModels.pdb
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.DbModels\obj\Debug\HandsOnTest.DbModels.csproj.CoreCompileInputs.cache
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.DbModels\obj\Debug\HandsOnTest.DbModels.dll
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.DbModels\obj\Debug\HandsOnTest.DbModels.pdb

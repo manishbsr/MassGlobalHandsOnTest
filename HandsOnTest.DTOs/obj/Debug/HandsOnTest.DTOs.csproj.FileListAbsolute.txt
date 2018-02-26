@@ -1,0 +1,6 @@
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.DTOs\bin\Debug\HandsOnTest.DTOs.dll
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.DTOs\bin\Debug\HandsOnTest.DTOs.pdb
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.DTOs\obj\Debug\HandsOnTest.DTOs.csprojResolveAssemblyReference.cache
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.DTOs\obj\Debug\HandsOnTest.DTOs.csproj.CoreCompileInputs.cache
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.DTOs\obj\Debug\HandsOnTest.DTOs.dll
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.DTOs\obj\Debug\HandsOnTest.DTOs.pdb

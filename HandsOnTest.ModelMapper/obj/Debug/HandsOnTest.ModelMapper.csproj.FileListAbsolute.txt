@@ -1,0 +1,12 @@
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.ModelMapper\bin\Debug\HandsOnTest.ModelMapper.dll
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.ModelMapper\bin\Debug\HandsOnTest.ModelMapper.pdb
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.ModelMapper\bin\Debug\AutoMapper.dll
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.ModelMapper\bin\Debug\AutoMapper.xml
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.ModelMapper\obj\Debug\HandsOnTest.ModelMapper.csprojResolveAssemblyReference.cache
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.ModelMapper\obj\Debug\HandsOnTest.ModelMapper.csproj.CoreCompileInputs.cache
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.ModelMapper\obj\Debug\HandsOnTest.ModelMapper.dll
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.ModelMapper\obj\Debug\HandsOnTest.ModelMapper.pdb
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.ModelMapper\bin\Debug\HandsOnTest.DTOs.dll
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.ModelMapper\bin\Debug\HandsOnTest.DTOs.pdb
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.ModelMapper\bin\Debug\HandsOnTest.DbModels.dll
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.ModelMapper\bin\Debug\HandsOnTest.DbModels.pdb

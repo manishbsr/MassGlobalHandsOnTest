@@ -1,0 +1,17 @@
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.BusinessLayer\bin\Debug\HandsOnTest.BusinessLayer.dll
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.BusinessLayer\bin\Debug\HandsOnTest.BusinessLayer.pdb
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.BusinessLayer\bin\Debug\HandsOnTest.DataAccessLayer.dll
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.BusinessLayer\bin\Debug\HandsOnTest.DTOs.dll
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.BusinessLayer\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.BusinessLayer\bin\Debug\HandsOnTest.DataAccessLayer.pdb
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.BusinessLayer\bin\Debug\HandsOnTest.DTOs.pdb
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.BusinessLayer\obj\Debug\HandsOnTest.BusinessLayer.csprojResolveAssemblyReference.cache
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.BusinessLayer\obj\Debug\HandsOnTest.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.BusinessLayer\obj\Debug\HandsOnTest.BusinessLayer.dll
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.BusinessLayer\obj\Debug\HandsOnTest.BusinessLayer.pdb
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.BusinessLayer\bin\Debug\AutoMapper.dll
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.BusinessLayer\bin\Debug\AutoMapper.xml
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.BusinessLayer\bin\Debug\HandsOnTest.DbModels.dll
+E:\HandsOnAssignment\HandsOnTest\HandsOnTest.BusinessLayer\bin\Debug\HandsOnTest.DbModels.pdb
